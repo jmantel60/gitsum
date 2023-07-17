@@ -1,1 +1,1 @@
-Add simple-utilities.md Docs page (#8269)
+Add TFLite Edge TPU Docs Integrations Page  (#8900)
