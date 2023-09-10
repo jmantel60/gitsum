@@ -1,1 +1,1 @@
-Add C++ Classify inference example (#6868)
+Add object blurring & object cropping modules in Ultralytics docs (#7434)
