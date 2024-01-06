@@ -1,1 +1,1 @@
-Capitalize OBB acronym (#7383)
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
