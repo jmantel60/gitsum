@@ -1,1 +1,1 @@
-Add estimate_speed(region_color) parameter (#8285)
+Added check of parameter type before setting required_grad=True for frozen layers (#8318)
