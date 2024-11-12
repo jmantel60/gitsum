@@ -1,1 +1,1 @@
-Use pathlib in DOTA ops (#7552)
+Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
